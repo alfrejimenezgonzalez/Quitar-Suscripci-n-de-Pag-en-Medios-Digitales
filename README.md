@@ -35,6 +35,8 @@ Hay varios scripts javascripts que hacen activar estos sistemas.Puede copiar las
 
 
 
+<br>
+
 |El País| 
 | ------------- |    
 |Actualmente basta con bloquear el javascript del navegador, ya que es solo un fichero el que hay que bloquear pero en el archivo host de Windows/Mac/Linux solo se puedenn bloquear URLS/Hosts y no partes de una de estas|          
