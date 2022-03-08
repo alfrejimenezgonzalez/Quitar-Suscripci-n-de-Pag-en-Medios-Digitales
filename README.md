@@ -60,8 +60,7 @@ Hay varios scripts javascripts que hacen activar estos sistemas.Puede copiar las
  <br>
  
  
- **Adguard****AdBlock
-**
+**Adguard**
  
  ![image](https://user-images.githubusercontent.com/17550010/157307767-61dbaa31-bf28-40e9-881d-87eaf6aeb741.png)
 
