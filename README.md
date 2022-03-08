@@ -39,6 +39,9 @@ Hay varios scripts javascripts que hacen activar estos sistemas.Puede copiar las
 | ------------- |    
 |Actualmente basta con bloquear el javascript del navegador, ya que es solo un fichero el que hay que bloquear pero en el archivo host de Windows/Mac/Linux solo se puedenn bloquear URLS/Hosts y no partes de una de estas|          
 
+
+
+
 ![20220308_185515 (1)](https://user-images.githubusercontent.com/17550010/157306776-c641060e-cf1c-49ce-aeb6-49661b7cffe3.gif)
  Principalmente el archivo a bloquear a día de hoy es https://elpais.com/arc/subs/p.min.js , se puede usar entensiones de navegadores de javascript que permiten solo bloquear ese fichero y asi tener el demas Javascript en este medio funcionando perfectamente para los reproductores de vídeo y demas funciones que utilizen.
  
