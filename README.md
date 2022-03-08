@@ -1,6 +1,6 @@
 
 
-<h1><font color="red">Quitar Suscripción de Pag🌎 en Medios Digitales</font></h1>
+<h1><font color="red">Quitar Suscripción de Pago en Medios Digitales</font></h1>
 
 
 
