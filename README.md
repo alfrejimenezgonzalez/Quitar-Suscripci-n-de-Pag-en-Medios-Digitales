@@ -4,21 +4,12 @@
 
 
 
-<h2>¿Qué es un archivo de host?</h2> 
+Por lo tanto en este proyecto se muestra diferentes alternativas para desactivar el servicio de pago de leer noticias de los medios nacionales en España. 
 
-Un archivo de hosts, denominado hosts, es un archivo de texto sin formato que utilizan todos los sistemas operativos para asignar nombres de host a direcciones IP. Se prefiere el archivo de host sobre el DNS, por lo que si el archivo de host resuelve un nombre de dominio, la solicitud nunca sale de su computadora.
-
-Por lo tanto en este proyecto se muestra un Host que redirecciona todos los plugins y addons a 127.0.0.1 ( loopback) para que no cargen y asi no desactivar el servicio de pago de leer noticias de los medios nacionales en España. 
-
-
-Hay varios scripts javascripts que hacen activar estos sistemas.Puede copiar las urls manualmente al archivo hosts en Windows **C:\WINDOWS\System32\drivers\etc\hosts** en Linux **/etc/hosts** o en MAC **/private/etc/hosts**. O directamente ejecutar el script .bat con el fichero hosts en la misma ubicación para que ponga automaticamente.
-
-
+En cada medio pondre la forma mas rapida de acceder a ellos, puede cambiar.
 
  A continuación dejo las siguientes tablas con los medios o periodicos con el sistema que usan.
- 
- 
- 
+
 
 | Medios que usan sistema Piano| 
 | ------------- |          
@@ -32,6 +23,19 @@ Hay varios scripts javascripts que hacen activar estos sistemas.Puede copiar las
 | laprovincia.es  | 
 | regio7.cat  | 
 | superdeporte.es  | 
+
+
+
+Ejecutar el script con el archivo host que redirecciona a 127.0.0.1 , que adjunto en el proyecto. Pueden copiar tambien las lineas y pegarles en tu fichero host manualmente.
+**Windows** C:\WINDOWS\System32\drivers\etc\hosts
+**Linux** /etc/hosts
+**MAC** /private/etc/host
+
+
+
+
+
+
 
 
 
@@ -71,9 +75,12 @@ Hay varios scripts javascripts que hacen activar estos sistemas.Puede copiar las
  
  
  
+ 
+ 
+ 
  | **El Confidencial** | Link |
 | ------------- | ------------- |
-| Utilizan codigo <style> en el codigo para oculta el texto. Con bloquear el CSS te sirve. En Gooogle Chrome te vale esta extension  | https://chrome.google.com/webstore/detail/html-content-blocker/nobnkgabkebhhlgfddbemmefjnjnahoe  |
+| Utilizan codigo <style> en el codigo para oculta el texto. Con bloquear el CSS te sirve. En Google Chrome te vale esta extension  | https://chrome.google.com/webstore/detail/html-content-blocker/nobnkgabkebhhlgfddbemmefjnjnahoe  |
 
  
  
