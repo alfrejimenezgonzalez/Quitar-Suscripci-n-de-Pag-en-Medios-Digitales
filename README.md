@@ -84,8 +84,9 @@ Ejecutar el script con el archivo host que redirecciona a 127.0.0.1 , que adjunt
 | Utilizan codigo <style> en el codigo para oculta el texto. Con bloquear el CSS te sirve. En Google Chrome te vale esta extension  | https://chrome.google.com/webstore/detail/html-content-blocker/nobnkgabkebhhlgfddbemmefjnjnahoe  |
 
  
- 
-![image](https://user-images.githubusercontent.com/17550010/157320397-3e549e80-b083-4c4d-9d9d-4fce0fef17ec.png)
+ Activan la etiqueta Style  y recargan el post del Confidencial.
+ ![image](https://user-images.githubusercontent.com/17550010/157320480-d4b9249d-c551-4df6-a67b-1fc99fa77f38.png)
+
 
  
  
