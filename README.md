@@ -85,6 +85,7 @@ Ejecutar el script con el archivo host que redirecciona a 127.0.0.1 , que adjunt
 
  
  
+![image](https://user-images.githubusercontent.com/17550010/157320397-3e549e80-b083-4c4d-9d9d-4fce0fef17ec.png)
 
  
  
