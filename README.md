@@ -71,16 +71,10 @@ Hay varios scripts javascripts que hacen activar estos sistemas.Puede copiar las
  
  
  
- |**El Confidencial**| 
-| ------------- |    | Link | 
-| |  |  |  
- 
- 
  | **El Confidencial** | Link |
 | ------------- | ------------- |
 | Utilizan codigo <style> en el codigo para oculta el texto. Con bloquear el CSS te sirve. En Gooogle Chrome te vale esta extension  | https://chrome.google.com/webstore/detail/html-content-blocker/nobnkgabkebhhlgfddbemmefjnjnahoe  |
-| Contenido de la celda  | |
- 
+
  
  
 
