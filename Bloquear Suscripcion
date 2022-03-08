@@ -1,7 +1,7 @@
-:: Este archivo por lotes est· diseÒado para usarse solo para copiar el
-:: archivo HOSTS (MVPS) incluido en la ubicaciÛn adecuada.
+:: Este archivo por lotes est√° dise√±ado para usarse solo para copiar el
+:: archivo HOSTS (MVPS) incluido en la ubicaci√≥n adecuada.
 ::
-:: Cualquier otro uso est· estrictamente prohibido y protegido por derechos de autor.
+:: Cualquier otro uso est√° estrictamente prohibido y protegido por derechos de autor.
 :: https://github.com/alfrejimenezgonzalez/Quitar-Suscripci-n-de-Pag-en-Medios-Digitales
 ::
 @ECHO OFF
@@ -26,12 +26,12 @@ IF EXIST %windir%\SYSTEM32\DRIVERS\ETC\HOSTS REN %windir%\SYSTEM32\DRIVERS\ETC\H
 IF EXIST %windir%\SYSTEM32\DRIVERS\ETC\NUL COPY /Y HOSTS %windir%\SYSTEM32\DRIVERS\ETC>NUL
 	color 1F
 	echo.
-	echo  ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
-	echo  InformaciÛn de licencia para fines comerciales, pÛngase en contacto con alfrejimglez                                      
-	echo  › Se ha bloqueados los medios digitales seleccionados
+	echo  √ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú
+	echo  Informaci√≥n de licencia para fines comerciales, p√≥ngase en contacto con alfrejimglez                                      
+	echo  √ù Se ha bloqueados los medios digitales seleccionados
 	
-	echo  ›                                          ¿ƒƒƒŸﬁ
-	echo. ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ
+	echo  √ù                                          √Ä√Ñ√Ñ√Ñ√ô√û
+	echo. √ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü
 	echo.
 	echo.
 	echo. 
